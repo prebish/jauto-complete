@@ -1,4 +1,5 @@
 package src;
+
 import java.util.ArrayList;
 /**
  * An interface for an AutoComplete dictionary that provides word suggestions for an 

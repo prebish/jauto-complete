@@ -25,7 +25,7 @@ git clone https://github.com/prebish/jauto-complete.git
 ### 2. Compile the Program
 ```bash
 cd ./jauto-complete
-javac -d build ./src/*.java
+javac -d build ./src/Test.java
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ javac -d build ./src/*.java
 Run the program using the following command:
 
 ```bash
-java -cp build src.Main
+java -cp build src.Test <dictionary.txt>
 ```
 
 ### Menu Options

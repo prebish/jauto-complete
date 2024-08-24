@@ -19,12 +19,12 @@ You can download it [<u>**here**</u>](https://www.oracle.com/java/technologies/d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prebish/autocomplete-implementation.git
+git clone https://github.com/prebish/jauto-complete.git
 ```
 
 ### 2. Compile the Program
 ```bash
-cd ./autocomplete-implementation
+cd ./jauto-complete
 javac -d build ./src/*.java
 ```
 
